@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: DongTao's Blog
-description: some thoughts
+name: 马丁的Blog
+description: 一个普通程序员的浅薄思考
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://dongtao.github.io
