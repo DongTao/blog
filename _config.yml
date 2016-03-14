@@ -34,3 +34,4 @@ redcarpet:
 gems: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE']
+excerpt_separator: '<!--more-->'
